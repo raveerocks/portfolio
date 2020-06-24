@@ -6,9 +6,9 @@ const PROJECTS =[
 
     {
         id : 1,
-        title : 'Example React Application',
+        title : 'Color Game',
         description : 'A React App that I built, involving JS and core web dev concepts!',
-        link : 'https://www.udemy.com/course/react-js-and-redux-mastering-web-apps/',
+        link : 'https://raveerocks.github.io/color-game/',
         image : project1
     },
     {
